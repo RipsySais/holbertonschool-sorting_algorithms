@@ -6,9 +6,9 @@ Ce projet implémente différents algorithmes de tri, dont le tri à bulles.
 
 Voici les grandes notations O de la complexité temporelle de l'algorithme de tri à bulles :
 
-- **O(n)** : Dans le meilleur des cas (tableau déjà trié)
-- **O(n^2)** : Dans le cas moyen
-- **O(n^2)** : Dans le pire des cas
+- **O(n)**
+- **O(n^2)**
+- **O(n^2)** 
 
 
 # Projet de Tri
@@ -19,6 +19,6 @@ Ce projet implémente différents algorithmes de tri, dont le tri à insertion.
 
 Voici les grandes notations O de la complexité temporelle de l'algorithme de tri à insertion :
 
-- **O(n)** : Dans le meilleur des cas (tableau déjà trié)
-- **O(n^2)** : Dans le cas moyen
-- **O(n^2)** : Dans le pire des cas
+- **O(n)**
+- **O(n^2)**
+- **O(n^2)**
