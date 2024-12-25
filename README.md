@@ -9,3 +9,9 @@ Voici les grandes notations O de la complexité temporelle de l'algorithme de tr
 - **O(n)** : Dans le meilleur des cas (tableau déjà trié)
 - **O(n^2)** : Dans le cas moyen
 - **O(n^2)** : Dans le pire des cas
+
+### Tri par Insertion
+
+- **O(n)** : Dans le meilleur des cas (liste déjà triée)
+- **O(n^2)** : Dans le cas moyen
+- **O(n^2)** : Dans le pire des cas
