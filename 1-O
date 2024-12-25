@@ -1,0 +1,15 @@
+# Projet de Tri
+
+Ce projet implémente différents algorithmes de tri, dont le tri par insertion pour une liste doublement chaînée.
+
+## Algorithmes Implémentés
+
+- Tri par insertion 
+
+## Complexité Temporelle
+
+### Tri par Insertion
+
+- **O(n)** : Dans le meilleur des cas (liste déjà triée)
+- **O(n^2)** : Dans le cas moyen
+- **O(n^2)** : Dans le pire des cas
