@@ -34,3 +34,15 @@ Voici les grandes notations O de la complexité temporelle de l'algorithme de tr
 O(n^2) # Dans le meilleur des cas
 O(n^2) # Dans le cas moyen
 O(n^2) # Dans le pire des cas
+
+# Projet de Tri
+
+Ce projet implémente différents algorithmes de tri, dont le tri rapide
+
+## Complexité Temporelle
+
+Voici les grandes notations O de la complexité temporelle de l'algorithme de tri rapide :
+
+O(n log n)
+O(n log n)
+O(n^2)
